@@ -178,6 +178,7 @@ padding:0px;
 .clients-carousel {
     margin-top: 50px; /*SMALL TOP MARGIN FOR SPACE */
     padding: 0 30px 30px 30px;
+    cursor: default;
 }
 
     .clients-carousel .thumbnail {
